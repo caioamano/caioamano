@@ -70,9 +70,9 @@ Projeto de automação de relatórios comerciais que integra Excel e Python para
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caioamano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=caioamano&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioamano&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas">
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=caioamano&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas">
 
 </div>
 
