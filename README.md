@@ -3,13 +3,13 @@
 
 # Caio Amano
 
-**Análise de Dados | Python | Automação | Business Intelligence**
+**Análise de Dados | Python | Automação | Power BI**
 
 Estudante de Análise e Desenvolvimento de Sistemas, interessado em transformar dados em informações úteis e desenvolver soluções práticas com tecnologia.
 
 <br>
 
-<a href="https://www.linkedin.com/in/caio-henrique-amano-8aa486439/">
+<a href="https://www.linkedin.com/in/caio-henrique-amano/">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://github.com/caioamano">
